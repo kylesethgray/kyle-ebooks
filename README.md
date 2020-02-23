@@ -1,2 +1,2 @@
 # kyle-ebooks
-fucking bots
+ bots
